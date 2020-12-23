@@ -1,10 +1,11 @@
 [package]
-version = "0.0.1-alpha.0"
+version = "0.0.1-alpha.1"
 name = "pjsip-sys"
 description = "Low level bindings to pjsip."
 repository = "https://github.com/evangilo/pjsip-sys"
 license = "MIT"
 authors = ["Evangilo Morais <evangilo@gmail.com>"]
+readme = "readme.md"
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
